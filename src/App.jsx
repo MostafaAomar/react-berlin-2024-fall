@@ -28,8 +28,7 @@ import CatFact from "./exercises/lessson13"
 function App() {
   return (
     <>
-      <CatFact />
-      {/* <Lesson13useEffect/> */}
+      <Lesson13useEffect/>
       {/* <Lesson12Styling /> */}
       {/* <Lesson11EventHandlersExercises /> */}
       {/* <RestaurantView /> */}
